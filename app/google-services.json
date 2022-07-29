@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037351345749",
+    "project_id": "openpassword",
+    "storage_bucket": "openpassword.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037351345749:android:e10c7d7c0e5a6e7019bedc",
+        "android_client_info": {
+          "package_name": "com.passwordmanager.openpassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037351345749-5nifl04gvi3ih57s3hv5ffp4ra1ueilo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZkF2eQao_mNd_01IOVRa4MSHKxg6P--M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037351345749-5nifl04gvi3ih57s3hv5ffp4ra1ueilo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
